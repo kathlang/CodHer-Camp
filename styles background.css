@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Indie+Flower);
+body {background-color: #CDDBE8;
+font-family: 'open sans';}
+
+h1 {color:#5B7E9b;font-family: 'Indie Flower';}
+a:link, a:visited {color: #5B7E9B;
+}
+
+#p1{color:red;}
+
+#p2 {color:blue;}
+
+p.hello {color: purple;}
+
+h1 {color:red;}
