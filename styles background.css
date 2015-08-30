@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Indie+Flower);
+
 body {background-color: #CDDBE8;
 font-family: 'open sans';}
 
@@ -11,5 +12,3 @@ a:link, a:visited {color: #5B7E9B;
 #p2 {color:blue;}
 
 p.hello {color: purple;}
-
-h1 {color:red;}
